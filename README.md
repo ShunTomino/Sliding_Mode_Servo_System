@@ -1,2 +1,6 @@
-# Sliding_Mode_Servo_System
-MATLAB/Simulinkを使用した連続時間スライディングモードサーボ系の制御シミュレーション
+##
+MATLAB/Simulinkで連続時間スライディングモードサーボ系を設計し、二輪車ロボットのロール角制御シミュレーションを実行。
+MATLAB Online（無料）で動作。
+
+##
+![Simulink Block Diagram](SimulinkBlock.jpg)
