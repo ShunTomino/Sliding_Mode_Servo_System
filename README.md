@@ -1,0 +1,2 @@
+# Sliding_Mode_Servo_System
+MATLAB/Simulinkを使用した連続時間スライディングモードサーボ系の制御シミュレーション
